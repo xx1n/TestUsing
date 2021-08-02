@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<config>
+  <scripts>
+    <casePath>C:\Users\xxy\OneDrive\Project\Windows Kits\AutomaticTest\AutomaticTest\testCase\</casePath>
+    <webdriverPath>C:\Users\xxy\OneDrive\Project\Windows Kits\AutomaticTest\AutomaticTest</webdriverPath>
+  </scripts>
+  <selenium>
+    <manual>no</manual>
+    <selephone></selephone>
+    <seleurl>http://devops.yundasys.com/</seleurl>
+    <seleuser>80092350</seleuser>
+    <selepassword>123456Xu..</selepassword>
+  </selenium>
+  <mysql>
+    <sqlserver></sqlserver>
+    <database></database>
+    <sqluser>root</sqluser>
+    <sqlpassword>123456</sqlpassword>
+  </mysql>
+  <common>
+    <email>546002638@qq.com</email>
+  </common>
+</config>
+
+
